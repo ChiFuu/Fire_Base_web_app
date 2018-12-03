@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "soduku",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
